@@ -1,0 +1,222 @@
+.page{
+    width: 100%;
+    
+}
+
+.header{
+    height: 60px ;
+    background-image: url('meow.jpeg');
+    color: beige;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    font-size: 40px;
+    margin-top: 0px;
+    font-family: merlin;
+    padding-left: 20px;
+    line-height: 20px;
+}
+
+.head{
+    height: 30px ;
+    background-color:#ffdd80e6;
+    color: beige;
+    justify-content: space-between;
+    align-items: center;    
+    display: flex;      
+    margin:0px;
+    font-family: verdana;
+    padding-left: 100px;
+    color:black;
+    font-family: verdana;
+    padding-left: 250px;
+}
+
+.navigation{
+    width: 55%;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 120px;
+    font-size: 15px;
+
+}
+
+.home{
+    text-decoration: none;
+    color: #ffdd80e6;
+    font-size: 20px;  
+    padding-right: 23px;
+    padding-left: 200px;
+    background-color: ;
+    
+    
+}
+
+.about{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;  
+    padding-right: 20px;
+    background-color: ;
+    
+}
+
+.contact{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.container{
+    display: flex;
+    margin:5px;
+    background-color: #ffdd80e6;
+}
+
+
+.never_enough{
+    height:200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:5px; 
+    padding-left: 15px;
+}
+
+.mid{
+    width: 33.33%;
+    height: 280px;
+    background-color: ;
+    margin: 15px;
+}
+
+.dino{
+    height: 200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:5px; 
+    padding-left: 15px;
+}
+
+.container1{
+    display: flex;
+    background-color: ;
+}
+
+
+.lefty1{
+    width: 33.33%;
+    height: 280px;
+    margin: 5px;
+}
+
+.a3{
+    height: 200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:0px; 
+    padding-left: 15px;
+}
+
+
+
+.righty1{
+    width: 33.33%;
+    height: 280px;
+    margin: 5px;
+}
+
+.a1{
+    height:200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:0px; 
+    padding-left: 15px;
+}
+
+.mid1{
+    width: 33.33%;
+    height: 280px;
+    margin: 5px;
+}
+
+.a2{
+    height: 200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:0px; 
+    padding-left: 15px;
+}
+
+.container2{
+    display: flex;
+    background-color: ;
+}
+
+
+.lefty2{
+    width: 33.33%;
+    height: 280px;
+    background-color: ;
+    margin: 10px;
+}
+
+.a{
+    height: 200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:0px; 
+    padding-left: 15px;
+}
+
+
+
+.righty2{
+    width: 33.33%;
+    height: 280px;
+    background-color: ;
+    margin: 10px;
+}
+
+.n{
+    height:200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:0px; 
+    padding-left: 15px;
+}
+
+.mid2{
+    width: 33.33%;
+    height: 280px;
+    background-color: ;
+    margin: 10px;
+}
+
+.e{
+    height: 200px;
+    width: 90%;
+    border-radius:8px;
+    float:center;
+    margin:0px; 
+    padding-left: 15px;
+}
+
+.footer{
+    height: 30px;
+    width: 100%;
+    background-image: url('meow.jpeg');
+    color:white;
+    text-align: center;
+    padding-top: 10px;
+    margin: 0px;
+    font-family: Geneva;
+}
